@@ -1,0 +1,19 @@
+# Skills
+# Organizational leadership
+- skill: Architecture, Design Tools
+  description: C4 model (4 C’s), Visio, Sparx, Confluence, gliffy, Lucid Charts
+
+# Communications strategy
+- skill: Architectural and design patterns
+  description: Composition, Microservice, Event driven, Broker, Layered, Lambda, Kappa, Domain driven, Observer, Adapter, Operator, Observer, Signleton, Listener, MVC
+
+# Digital content development and creation
+- skill: Programming Languages
+  description: Java, Python, gRPC, Scala, GO, NodeJS
+
+- skill: Streaming / MQ
+  description: Apache/Confluent Kafka,RabbitMq,HornetQ, Pulsar, RedPanda (evaluation only)
+- skill: Tools (esb, devops, gitops, declarative)
+  description: ArgoCD, Crossplane, Terraform, Splunk, Dynatrace, monit, Nagios, Appdynamics, SupervisorD
+- skill: Optimized Data Formats
+  description: Avro, Parquet, ORC, Protobuf, cloudevents (event data spec for cloud)
