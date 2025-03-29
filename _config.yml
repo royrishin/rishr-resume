@@ -14,16 +14,16 @@ resume_name: "Rishin Roy"
 resume_title: "Rising Junior at Centennial High School"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: "roy.rishin@gmail.com"
+resume_contact_email: "iam.rishinroy@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "46963670**"
+#resume_contact_telephone: "4695"
 resume_contact_address: "Frisco, TX"
 
 resume_header_contact_info: "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info: "false"
 
-resume_header_intro: "<p>Rishin junior with abundance of passion and curiosity with Aerospace engineering, astro physics. Completed orbital mechanics and spectral analysis using programmatic approaches. State level participant for orchestra. National qualifier for Business Professional of America</p>"
+resume_header_intro: "<p>Rishin Roy is a junior with an abundance of passion and curiosity in Aerospace engineering and astrophysics. Completed orbital mechanics and spectral analysis using programmatic approaches. Currently completing course about Special Realitivity from Stanford University. State level participant for orchestra. National qualifier for Business Professionals of America</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
