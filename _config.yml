@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Rishin Roy"
-resume_title: "Rising Junior at Centennia High School"
+resume_title: "Rising Junior at Centennial High School"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "roy.rishin@gmail.com"
