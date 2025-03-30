@@ -10,10 +10,10 @@
 
   
 - skill: Image Spectral Analysis
-  description: Image analyis using python inlcuding object detection and classification, remote sensing, planteary exploration, spectral analysis and photometry
+  description: Image analyis using python including object detection and classification, remote sensing, planetary exploration, spectral analysis and photometry
 - skill: Programatic Exploration
   description: Numerically solving rocket equation using computer program
 - skill: Special Relativity
-  description: Obtaining knowledge about special relatvity through Stanford Course
+  description: Obtaining knowledge about Special Relatibity through course offered by Stanford University
 - skill: Data anlysis and visualization
   description: Used python to analyze images, code can be found <a href = "https://github.com/royrishin/astro-spectra-analysis"> here</a>
